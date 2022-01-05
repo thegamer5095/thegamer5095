@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thegamer5095
+- 👀 I’m interested in Discord.js
+- 🌱 I’m currently learning LUA
+- 💞️ I’m looking to collaborate on A1pha
+- 📫 How to reach me https://discord.gg/rqw4HV3At6
